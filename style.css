@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    background-color:#aa6f39 ;
+}
+.container {
+    display: flex;
+    width: 100%;
+}
+aside {
+    background-color: #33333396;
+    color: #888621e1;
+    width:25%;
+    padding: 20px;
+}
+aside h1 {
+    margin: 0;
+}
+#films {
+    list-style: none;
+    padding: 0;
+}
+#films li {
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: dotted;
+}
+#films li:hoover {
+    background-color: #444;
+}
+#movie poster {
+    max-width:300px;
+    margin-bottom: 2opx;
+}
+button {
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: aqua;
+}
+button:hover {
+    background-color: #218838;
+}
