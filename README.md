@@ -1,4 +1,7 @@
-# FLATDANGO 
+ 
+ 
+ 
+ # FLATDANGO 
 It is an application for buying movie tickets.It allows users to check tickets that are available
 and buy the tickets easily.
 
